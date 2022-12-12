@@ -1,0 +1,54 @@
+---
+title: "A bandeira desbotada"
+description: "Uma bandeira e um futuro desbotados."
+author:  William Amorim
+date: 2017-01-25
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Era uma esfera azul que girava despreocupadamente ao redor de um sol amarelo e sem graça. Não era um planeta extraordinário em nenhum sentido, mas tinha muita água, o que era importante já que, naquela parte do universo, a vida gostava de surgir dentro dela. E de fato muita vida surgiu. Algumas formas resolveram até sair do mar, aprenderam a se comunicar e começaram a tirar fotos da própria refeição, que, como você deve saber, é o último estágio da evolução.
+
+Olhando mais de perto para um certo ponto do planeta, via-se uma extensa avenida, cercada dos dois lados por prédios muito maiores que árvores. Um pequeno símio se balançava pendurado em um sinal de trânsito enquanto observava seus amigos no chão saltarem de um lado para outro, guinchando alegremente sempre que encontravam algo interessante dentro dos carros abandonados. Os veículos — largados às pressas no momento em que seus donos perceberam que eles não eram tão importantes assim — preenchiam as vias até onde a visão alcançava. Já não levavam mais pessoas apressadas a lugares que elas não queriam ir. Serviam apenas de abrigo para insetos e diversão para os macacos.
+
+No asfalto cheio de rachaduras, centenas de roedores corriam livremente, atravessando os cruzamentos sem se preocupar com os semáforos, que, muito antes da energia acabar, já haviam deixado de orquestrar o ritmo daquela avenida. Na frente de um prédio tão grande quanto qualquer coisa que pudesse ser construída, algumas ratazanas roíam o couro legítimo de uma pasta que protegia documentos confidenciais sobre a compra de uma multinacional.
+
+Dos postes de luz e dos telhados dos prédios mais baixos, o canto dos pássaros se misturava à bagunça dos macacos, compondo a atual trilha sonora daquele lugar. As poucas árvores plantadas nos pequenos canteiros das calçadas cresciam agora sem um limite. Nas ruas, uma grama escura e persistente saía das fendas, escondendo um pouco o número descontrolado de baratas.
+
+Uma águia, que vinha fazendo sombra sobre os carros há algum tempo, voou rasante e capturou uma das ratazanas. A sua destreza encantou o pequeno símio. Ele havia assistido à investida com atenção e agora observava distraído o pássaro se afastar com a vítima muito bem presa entre as garras. Enquanto isso, um dos macacos brincalhões acertou um de seus colegas com um punhado de fezes e saltou pela janela de um carro para se esconder. Ele aterrissou em cima do volante, com as patas traseiras pressionando a buzina. O som desconhecido ecoou pelo vale de concreto. Os pássaros bateram asas, formando uma nuvem negra no topo dos edifícios. Os macacos gritaram, pulando de carro em carro, poste em poste, na direção das portas e janelas. A águia rodopiou no ar, largando seu almoço, e voou para o topo de um prédio. O pequeno símio perdeu o equilíbrio com o susto e despencou. A queda não o teria matado se ele não tivesse batido a cabeça em um retrovisor antes de atingir o chão.
+
+As últimas ondas sonoras da buzina se dissiparam, e a avenida ficou em absoluto silêncio, um silêncio que por muito tempo havia sido impossível, mas que agora combinava com o lugar.
+
+A alguns quarteirões desolados de distância dali, havia uma biblioteca.
+
+Era impossível se aproximar das estantes sem entrar no campo de visão dos vários olhos atentos. Era ainda mais impossível andar pelos corredores sem ser capturado pelos quase infinitos fios de teia. Pareciam funcionar como um sofisticado sistema de segurança, entrelaçados em todas as direções, do chão ao teto do salão.
+
+Nas dezenas de estantes, livros e mais livros — tantos quanto um leitor dedicado levaria três vidas para ler — sumiam lentamente. Cada dia que passava, existia um pouco menos deles. Folha por folha, parágrafo por parágrafo, letra por letra... As traças devoravam os livros, mas não aprendiam nada. Gerações de histórias e conhecimento desaparecendo lentamente, sendo destruídas por seres que não faziam ideia do seu valor. Ou talvez elas soubessem e não davam a mínima.
+
+As aranhas, que se alimentavam principalmente das moscas que não tinham mais quem atazanar, comiam as traças sempre que queriam variar o cardápio. Quando as aranhas morriam, elas eram devoradas pelas formigas, que por sua vez eram alimento de vários outros insetos e alguns pássaros. A cadeia continuava e, aos poucos, cada animal tinha em si uma pequena parte de todo o conhecimento humano.
+
+Qual seria o último livro, o último conhecimento a sobreviver? Talvez fosse um livro de história, matemática ou física. Poderia ser um romance sobre pessoas que queriam ficar juntas, mas não podiam, ou uma receita de bolo de laranja. Talvez fosse o último jornal lançado, com as últimas notícias exageradas daquela civilização ou uma história de quadrinhos sobre heróis de capa. Manuais médicos para o controle de pandemias, bíblias do marketing e biografias de jovens que faziam vídeos na internet. As opções eram imensas, e foi a receita de bolo.
+
+Havia muitas igrejas naquele planeta. Em uma delas, havia um lobo.
+
+A pouca luz que atravessava os intactos cristais pouco iluminava o grande salão. Qualquer pessoa que entrasse ali veria apenas o suficiente para não esbarrar nos bancos aleatoriamente jogados entre a porta e o altar. O lobo havia feito sua cama dentro do confessionário, com algumas almofadas que achara ao vasculhar a sacristia. Ele costumava sair para caçar ao anoitecer, voltando de madrugada sempre com a barriga cheia e a boca pingando sangue.
+
+Ele não sabia disso, mas a sua grande toca era usada muito tempo atrás como um refúgio para pessoas que não gostavam de se sentir sozinhas, que usavam uma ideia, uma abstração, para preencher algum vazio incômodo de suas vidas. Por coincidência, ou não, era exatamente como se sentia.
+
+Fazia meses que ele passava os seus dias deitado no altar, com a cabeça pousada em uma das hastes de uma cruz tombada, esperando a sua parceira voltar. Ela havia saído para caçar e nunca voltou. Ele não tinha muita noção de tempo nem capacidade de prever todas as coisas ruins que poderiam ter acontecido com ela, por isso continuava esperando. Talvez se esquecesse algum dia e abandonasse o seu posto. Talvez um dia ele mesmo não voltasse da caça. Nesse dia, a igreja se tornaria, em fim, um lugar vazio.
+
+Apesar de tantas paisagens absurdamente belas daquele planeta, uma sala pequena e desinteressante era venerada.
+
+Nessa sala, onde decisões importantes eram tomadas por pessoas que eram poderosas somente porque outras pessoas disseram que elas deveriam ser, uma galinha cacarejava ao botar um ovo. O evento agitou as outras galinhas, que batiam as asas animadas. Penas voavam por todos os lados.
+
+A vegetação do jardim tinha invadido o cômodo pelas janelas quebradas. As trepadeiras se apoderavam das paredes, crescendo descontroladamente, muito mais do que a pessoa que a plantou havia planejado. Mas essa pessoa já não estava viva, assim como as pessoas que usavam aquela sala para fazer planos que afetavam somente a vida de outras pessoas, que também já estavam mortas.
+
+Atraído pela confusão, um galo entrou pela janela quebrada e parou diante de um mastro caído, pisando em um pano colorido e desenhado. O cacarejo continuava, e então um ovo pousou sobre a mesa, entre arquivos de documentos militares cheios de decisões erradas. As galinhas se acalmaram e voltaram a se aninhar em silêncio no sofá e no carpete. Vendo a situação controlada, o galo cantou, batendo as asas, imponente. Ele cagou sobre a bandeira desbotada, deu as costas e voltou a ciscar o jardim.
+
+---
+
+**Motivação**: desafio semanal da página "Gente que escreve", no Facebook. 
+
+**Tema**: a bandeira desbotada.

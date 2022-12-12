@@ -1,0 +1,135 @@
+---
+title: Perfil profissional
+author: William Amorim
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  echo = FALSE,
+  message = FALSE,
+  warning = FALSE
+)
+```
+
+Atualmente trabalho como professor, programador e cientista de dados na [Curso-R](https://www.curso-r.com/) e na [R6](https://www.curso-r.com/sobre/), empresas das quais sou sócio-fundador. Venho me especializando em construção de dashboards em [Shiny](https://shiny.rstudio.com/gallery/). Você pode acessar e baixar o meu currículo `r htmltools::a(href = "https://williamorim.github.io/resume/", title = "Currículo William Nilson de Amorim", "clicando aqui", target = "_blank")`.
+
+A Curso-R é uma empresa que oferece cursos na área de Ciência de Dados, com foco em programação em R. A nossa missão é descomplicar a Ciência de Dados para todas as pessoas, independentemente da área de formação.
+
+A R6 é uma empresa de consultoria na área de Ciência de Dados, que tem a linguagem de programação R como principal ferramenta. Somos especialistas em modelagem estatística, criação de dashboards em Shiny e *web scraping*.
+
+<img src = "../images/profissional/equipe_curso_r.jpg">
+<center><span style = "font-size: 0.9em;">Confraternização de fim de ano da equipe da Curso-R/R6 em 2022.</span></center>
+
+### Cursos que ministro
+
+Cursos de programação em R e Ciência de Dados que ministro atualmente:
+
+- [R para Ciência de Dados I](https://loja.curso-r.com/r-para-ciencia-de-dados-i.html)
+
+- [R para Ciência de Dados II](https://loja.curso-r.com/r-para-ciencia-de-dados-ii.html)
+
+- [Dashboards em Shiny I](https://loja.curso-r.com/construindo-dashboards-i.html)
+
+- [Dashboards em Shiny II](https://loja.curso-r.com/construindo-dashboards-ii.html)
+
+### Trabalhos
+
+A seguir alguns trabalhos abertos que realizei nos últimos anos.
+
+#### &#128187; Hamilton Institute, Maynooth University (Irlanda)
+
+Trabalhei com a equipe do Instituto Hamilton no desenvolvimento e manutenção [aplicativos em Shiny para análise de dados de COVID-19](https://www.hamilton.ie/covid19/dashboard.html). Também fiquei responsável pela manutenção do [blog utilizado para divulgação dos resultados do projeto](https://www.hamilton.ie/covid19/). O app não está sendo mais mantido pelo Instituo Hamilton, então é provável que não esteja mais no ar.
+
+Atividades realizadas:
+
+- Organização dos códigos e construção da identidade visual dos [aplicativos Shiny](https://www.hamilton.ie/covid19/dashboard.html).
+
+- Desenvolvimento do [framework de atualização automática](https://github.com/hamilton-institute/hamiltonCovid19/actions) dos dados dos aplicativos utilizando o Github Actions.
+
+- Implementação de melhorias na página do projeto (construída usando o pacote [`{distill}`](https://rstudio.github.io/distill/))
+
+<br>
+<center>
+```{r}
+htmltools::a(
+  href = "https://www.hamilton.ie/covid19/dashboard.html",
+  title = "Link para o dashboard do Instituto Hamilton",
+  target = "_blank",
+  htmltools::img(
+    src = "../images/profissional/app_hamilton.png",
+    alt = "Dashboard do Instituto Hamilton",
+    width = "90%",
+    style = "margin: auto;"
+  )
+)
+```
+</center>
+<br>
+
+<hr>
+
+#### &#128187; Instituto Sou da Paz
+
+Desenvolvi em conjunto da equipe do Instituto Sou da Paz o aplicativo [Sou da Paz Analisa](https://sdpa.shinyapps.io/sdpa/), uma ferramenta que centraliza, analisa e disponibiliza dados de criminalidade para o Estado de São Paulo.
+
+Algumas reportagens sobre a ferramenta:
+
+- [Reportagem no SPTV](https://g1.globo.com/sp/sao-paulo/noticia/2021/01/26/dez-delegacias-com-mais-registros-de-roubos-durante-a-pandemia-ficam-nas-zonas-sul-e-leste-de-sp.ghtml)
+
+- [Matéria no portal *A Tribuna*](https://www.atribuna.com.br/cidades/plataforma-fornece-localiza%C3%A7%C3%A3o-de-%C3%ADndices-criminais-da-baixada-santista-1.139379)
+
+- [Portal Veja SP](https://vejasp.abril.com.br/cidades/instituto-sou-da-paz-mapas-violencia-sp/)
+
+<br>
+<center>
+```{r}
+htmltools::a(
+  href = "https://sdpa.shinyapps.io/sdpa/",
+  title = "Link para o Sou da Paz Analisa",
+  target = "_blank",
+  htmltools::img(
+    src = "../images/profissional/sdpa.png",
+    alt = "Imagem do Sou da Paz Analisa",
+    width = "90%",
+    style = "margin: auto;"
+  )
+)
+```
+</center>
+<br>
+
+<hr>
+
+#### &#128187; Painel ODS6 para o Estado de SP
+
+Desenvolvi em conjunto da Faculdade de Saúde Pública um painel para monitoramento de indicadores de acesso à água e esgoto para municípios do Estado de São Paulo.
+
+Acesso o painel: https://nara-fspusp.shinyapps.io/ods6-sp/
+
+<br>
+<center>
+```{r}
+htmltools::a(
+  href = "https://nara-fspusp.shinyapps.io/ods6-sp/",
+  title = "Link para o Painel ODS6",
+  target = "_blank",
+  htmltools::img(
+    src = "../images/profissional/ods6.png",
+    alt = "Imagem do Sou da Paz Analisa",
+    width = "90%",
+    style = "margin: auto;"
+  )
+)
+```
+</center>
+<br>
+
+<hr>
+
+#### &#128187; Projetos internos da Curso-R
+
+- [Desenvolvimento do site da Curso-R](https://curso-r.com/)
+<br><span class = "obs">Feito em <a href = "https://gohugo.io/" target = "_blank">Hugo</a>, com o pacote <a href = "https://bookdown.org/yihui/blogdown/" target = "_blank">{blogdown}</a></span>
+
+- [Desenvolvimento do blog da Curso-R](https://blog.curso-r.com/)
+<br><span class = "obs">Feito em <a href = "https://gohugo.io/" target = "_blank">Hugo</a>, com o pacote <a href = "https://bookdown.org/yihui/blogdown/" target = "_blank">{blogdown}</a></span>

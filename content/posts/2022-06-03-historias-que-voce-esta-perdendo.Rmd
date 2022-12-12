@@ -1,0 +1,86 @@
+---
+author: William Amorim
+date: "2022-06-03"
+linktitle: Não exclua essa mídia da sua vida.
+image: images/blog/controle.jpg
+tags:
+- jogos
+title: Histórias maravilhosas que você está perdendo por não jogar video game
+type:
+- post
+- posts
+---
+
+```{r, include = FALSE}
+source("../utils.R")
+```
+
+Uma listinha de histórias e narrativas maravilhosas que você está perdendo se a mídia video game não faz parte da sua vida.
+
+Aproveitei para classifir os títulos com relação a habilidade com controle ou mouse/teclado que você precisa ter para jogar cada um deles. A escala vai de 1 a 3 de tal forma que:
+
+🎮 --- nenhuma habilidade <br>
+🎮🎮 --- um pouco de habilidade <br>
+🎮🎮🎮 --- muita habilidade
+
+---
+
+## To the Moon
+
+<img src = "../../images/blog/to-the-moon.jpg" style = "margin: auto; display: block; width: 85%;">
+
+Uma ficção científica sobre os amargos desencontros da vida.
+
+Habilidade necessária: 🎮
+
+---
+
+## 12 Minutes
+
+<img src = "../../images/blog/12-minutes.jpg" style = "margin: auto; display: block; width: 85%;">
+
+Um mistério. Mais do que isso é spoiler.
+
+Habilidade necessária: 🎮
+
+---
+
+## What Remains of Edith Finch
+
+<img src = "../../images/blog/what-remains-2.jpg" style = "margin: auto; display: block; width: 85%;">
+
+Uma ode à narrativa.
+
+Habilidade necessária: 🎮🎮
+
+---
+
+## Life is Strange
+
+<img src = "../../images/blog/life-is-strange.png" style = "margin: auto; display: block; width: 85%;">
+
+Um mistério sobre escolhas e consequências.
+
+Habilidade necessária: 🎮🎮
+
+---
+
+## Bioshock
+
+<img src = "../../images/blog/bioshock.jpg" style = "margin: auto; display: block; width: 85%;">
+
+Filosofia política em uma distopia embaixo d'água.
+
+Habilidade necessária: 🎮🎮🎮
+
+---
+
+## The Last of Us
+
+<img src = "../../images/blog/the-last-of-us.jpg" style = 
+"margin: auto; display: block; width: 85%;">
+
+Uma obra-prima sobre amor, ódio e humanidade.
+
+Habilidade necessária: 🎮🎮🎮
+

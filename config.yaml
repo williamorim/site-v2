@@ -1,11 +1,12 @@
-baseURL: https://example.com
-languageCode: en
-defaultContentLanguage: en
-title: KeepIt
+baseURL: "/"
+languageCode: "pt"
+DefaultContentLanguage: "pt-br"
+title: "William Amorim"
 theme: KeepIt
 paginate: 12
 enableEmoji: yes
 enableRobotsTXT: yes
+publishdir: "docs"
 googleAnalytics: ''
 disqusShortname: yourdiscussshortname
 sitemap:
@@ -20,18 +21,21 @@ Permalinks:
   posts: /:year/:filename/
 menu:
   main:
+    - name: Sobre mim
+      url: /sobre
+      weight: 1
     - name: Blog
       url: /posts/
-      weight: 1
-    - name: Categories
-      url: /categories/
+      weight: 2
+    - name: Contos
+      url: /contos/
       weight: 3
-    - name: About
-      url: /about
+    - name: Profissional
+      url: /profissional
       weight: 4
 params:
-  author: Fastbyte01
-  avatar: /images/me/avatar.jpeg
+  author: William Amorim
+  avatar: /images/me/foto_perfil.jpg
   baidu_verification: ''
   bing_verification: ''
   cdn_url: ''
@@ -55,8 +59,6 @@ params:
     url: cover.png
     width: 800
   keywords: ''
-  license: Released under <a rel="license external nofollow noopener noreffer" href="https://creativecommons.org/licenses/by-nc/4.0/"
-    target="_blank">CC BY-NC 4.0</a>
   logo:
     height: 40
     url: logo.png
@@ -69,19 +71,18 @@ params:
       width: 127
     name: Fastbyte01
   share:
-    Facebook: yes
+    Facebook: no
     Linkedin: yes
     Twitter: yes
     copyright: This work is licensed under a Creative Commons Attribution-NonCommercial
       4.0 International License.
-  since: 2012
+  since: 2020
   social:
-    Facebook: xxxx
-    GitHub: xxxx
-    Linkedin: xxxx
-    Twitter: xxxx
+    GitHub: williamorim
+    Linkedin: william-amorim-796798210
+    Twitter: wamorim_
   socialShare: yes
-  subtitle: A Hugo theme
+  subtitle: William Amorim
   utterances:
     owner: ''
     repo: ''
@@ -97,4 +98,4 @@ params:
     visitor: yes
   yandex_verification: ''
 author:
-  name: Fastbyte01
+  name: William Amorim
