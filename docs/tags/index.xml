@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on William Amorim</title>
+    <link>/tags/</link>
+    <description>Recent content in Tags on William Amorim</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt</language>
+    <lastBuildDate>Fri, 03 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>jogos</title>
+      <link>/tags/jogos/</link>
+      <pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/jogos/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>séries</title>
+      <link>/tags/s%C3%A9ries/</link>
+      <pubDate>Fri, 05 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/s%C3%A9ries/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>livros</title>
+      <link>/tags/livros/</link>
+      <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/livros/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>recomendação</title>
+      <link>/tags/recomenda%C3%A7%C3%A3o/</link>
+      <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/recomenda%C3%A7%C3%A3o/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

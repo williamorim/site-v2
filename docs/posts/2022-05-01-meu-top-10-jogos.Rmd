@@ -1,0 +1,157 @@
+---
+author: William Amorim
+date: "2022-05-01"
+linktitle: Versão 2022.
+image: images/blog/controle-video-game.jpg
+tags:
+- jogos
+title: Meu top 10 jogos
+type:
+- post
+- posts
+---
+
+```{r, include = FALSE}
+source("../utils.R")
+```
+
+O objetivo deste top 10 é poder recriá-lo de tempos em tempos e ver a minha opinião mudando ao longo dos anos (e com o descubrimento de novos jogos). Essa é a versão de 2022.
+
+Resolvi usar três critérios que consigo mensurar (para poder comparar os jogos) e fazer uma pequena resenha explicando o porquê cada jogo está aqui. Os três critérios, que vão variar de 1 a 5, são:
+
+**História**: o quanto a história me cativou e permeneceu comigo após o fim do jogo.
+
+**Imersão**: o quanto o jogo conseguiu me levar pra dentro do *mundinho*. Leva bastante em conta a beleza e detalhes dos cenários.
+
+**Jogabilidade**: o quanto é/foi divertido jogar o jogo, como passatempo.
+
+Apenas um *disclaimer*: esses três critérios server apenas para comparar esses 10 jogos entre eles. A nota 1 em imersão, por exemplo, não quer dizer que a imersão do jogo é péssima. Quer dizer que, entre esses jogos, foi o que eu tive a menor imersão.
+
+### 10 - Civilization VI
+
+<img src = "../../images/blog/civilization-vi.jpg" style = "margin: auto; display: block; width: 85%;">
+
+| | |
+|---|---|
+| História:  | 🎮 |
+| Imersão:  | 🎮🎮🎮🎮  |
+| Jogabilidade:  | 🎮🎮🎮🎮🎮  |
+
+Jogo de tabuleiro sem tabuleiro não é golpe e por isso Civilization inicia o meu top 10. Com milhões de caminhos e escolhas ao longo da partida, é do tipo de jogo que você passa horas jogando sem perceber o tempo passar.
+
+Uma observação: só joguei o Civilization VI, por isso especifiquei o sexto jogo aqui e não a série toda.
+
+### 9 - The Lost World: Jurassic Park
+
+<img src = "../../images/blog/jurassic-park.jpg" style = "margin: auto; display: block; width: 85%;">
+
+| | |
+|---|---|
+| História:  | 🎮  |
+| Imersão:  | 🎮  |
+| Jogabilidade:  | 🎮🎮🎮🎮  |
+
+Nessa lista tem jogo velho, tem jogo de Mega Drive e tem jogo do meu filme ruim favorito. E *The Lost World: Jurassic Park* é todos eles. O jogo tem co-op, tem um quase mundo aberto, também tem um plot horrível no qual você captura e mata animais inocentes, mas é bem diverto.
+
+### 8 - Resident Evil 3
+
+<img src = "../../images/blog/resident-evil-3.jpg" style = "margin: auto; display: block; width: 85%;">
+
+| | |
+|---|---|
+| História:  | 🎮🎮🎮  |
+| Imersão:  | 🎮🎮🎮🎮  |
+| Jogabilidade:  | 🎮🎮🎮  |
+
+Se nem o Brad Pitt conseguiu fazer uma história de apocalipse zumbi melhor, Resident Evil 3 precisa estar na lista. Ponto a mais de imersão pela história paralela contada nos *files*. Joguei o remake e é absurdamente horrível.
+
+### 7 - To the Moon
+
+<img src = "../../images/blog/to-the-moon.jpg" style = "margin: auto; display: block; width: 85%;">
+
+| | |
+|---|---|
+| História:  | 🎮🎮🎮🎮  |
+| Imersão:  | 🎮🎮  |
+| Jogabilidade:  | 🎮  |
+
+História espetacular, que fica na cabeça uma semana e no coração pra sempre.
+
+### 6 - What Remains of Edith Finch
+
+<img src = "../../images/blog/what-remains-2.jpg" style = "margin: auto; display: block; width: 85%;">
+
+| | |
+|---|---|
+| História:  | 🎮🎮🎮🎮🎮  |
+| Imersão:  | 🎮🎮🎮🎮  |
+| Jogabilidade:  | 🎮🎮  |
+
+Uma ode à narrativa, *What Remains of Edith Finch* conta com maestria uma história maravilhosa. Jogo para terminar e bater palmas. Escrevi mais sobre ele `r criar_link("aqui", "https://wamorim.com/blog/2020-12-27-what-remains/")`.
+
+### 5 - Skyrim
+
+<img src = "../../images/blog/skyrim.jpg" style = "margin: auto; display: block; width: 85%;">
+
+| | |
+|---|---|
+| História:  | 🎮🎮  |
+| Imersão:  | 🎮🎮🎮🎮  |
+| Jogabilidade:  | 🎮🎮🎮🎮🎮  |
+
+O misto perfeito de imersão e jobabilidade é jogar um mundo aberto gigante e não querer usar *fast travel*. 
+
+### 4 - Bioshock
+
+<img src = "../../images/blog/bioshock.jpg" style = "margin: auto; display: block; width: 85%;">
+
+| | |
+|---|---|
+| História:  | 🎮🎮🎮🎮  |
+| Imersão:  | 🎮🎮🎮🎮  |
+| Jogabilidade:  | 🎮🎮🎮🎮  |
+
+A ambientação incrível, a trilha sonora impecável, as histórias paralelas contadas nos diários de áudio, um FPS muito divertido e o *plot twist* sensasional justificam esse quarto lugar pra *Bioshock*.
+
+### 3 - Life is Strange
+
+<img src = "../../images/blog/life-is-strange.png" style = "margin: auto; display: block; width: 85%;">
+
+| | |
+|---|---|
+| História:  | 🎮🎮🎮🎮🎮  |
+| Imersão:  | 🎮🎮🎮🎮  |
+| Jogabilidade:  | 🎮🎮  |
+
+*Life is Strange* e o *prequel* *Life is Strange: Before the Storm* formam uma história perfeita (e uma trilha sonora também). Sempre que termino uma boa história, fico com a sensação de ter perdido amigos. Quando terminei o *Before the Storm*, o sentimento foi o mesmo de terminar um relacionamento.
+
+### 2 - The Last of Us (I e II)
+
+<img src = "../../images/blog/the-last-of-us.jpg" style = "margin: auto; display: block; width: 85%;">
+
+| | |
+|---|---|
+| História:  | 🎮🎮🎮🎮🎮  |
+| Imersão:  | 🎮🎮🎮🎮🎮  |
+| Jogabilidade:  | 🎮🎮🎮  |
+
+Subiu de 8º para 2º porque a parte II é uma obra-prima. Uma história incrível e desconfortável. Jogo mais lindo que já joguei na vida.
+
+### 1 - A série Half-Life
+
+<img src = "../../images/blog/half-life-gman.jpg" style = "margin: auto; display: block; width: 85%;">
+
+| | |
+|---|---|
+| História:  | 🎮🎮🎮  |
+| Imersão:  | 🎮🎮🎮🎮🎮  |
+| Jogabilidade:  | 🎮🎮🎮🎮🎮  |
+
+
+
+Minha série de jogos preferida, foi o que me fez virar fã de histórias e cenários pós-apocalípticos. O sentimento que o capítulo *Highway 17* do *Half-Life 2* gerou em mim virou meu *benchmark* de imersão. FPS extramamente divertido, com uma história meio confusa, mas tem 1000 vídeos no YouTube explicando. Talvez perca a posição no futuro se a Valve não lançar novos jogos para continuar a história.
+
+
+
+
+
