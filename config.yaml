@@ -30,8 +30,8 @@ menu:
     - name: Contos
       url: /contos/
       weight: 3
-    - name: Profissional
-      url: /profissional
+    - name: Portfolio
+      url: /portfolio
       weight: 4
 params:
   author: William Amorim
