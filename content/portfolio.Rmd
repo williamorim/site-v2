@@ -1,0 +1,93 @@
+---
+title: Portfolio profissional
+author: William Amorim
+---
+
+```{r, include = FALSE}
+knitr::opts_chunk$set(
+  echo = FALSE,
+  message = FALSE,
+  warning = FALSE
+)
+```
+
+### Livros
+
+Livros de Ciência de Dados e programação em R que escrevi ou ajudei a escrever:
+
+- [Ciência de Dados em R](https://livro.curso-r.com/)
+
+- [Programando em Shiny](https://programando-em-shiny.curso-r.com/)
+
+
+### Cursos que ministro
+
+Cursos de programação em R e Ciência de Dados que ministro atualmente:
+
+- [R para Ciência de Dados I](https://loja.curso-r.com/r-para-ciencia-de-dados-i.html)
+
+- [R para Ciência de Dados II](https://loja.curso-r.com/r-para-ciencia-de-dados-ii.html)
+
+- [Dashboards em Shiny I](https://loja.curso-r.com/construindo-dashboards-i.html)
+
+- [Dashboards em Shiny II](https://loja.curso-r.com/construindo-dashboards-ii.html)
+
+### Trabalhos
+
+Listo abaixo os trabalhos abertos que desenvolvi nos últimos anos.
+
+#### &#128187; Instituto Sou da Paz
+<hr>
+
+Desenvolvi em conjunto da equipe do Instituto Sou da Paz o aplicativo [Sou da Paz Analisa](https://sdpa.shinyapps.io/sdpa/), uma ferramenta que centraliza, analisa e disponibiliza dados de criminalidade para o Estado de São Paulo.
+
+Algumas reportagens sobre a ferramenta:
+
+- [Reportagem no SPTV](https://g1.globo.com/sp/sao-paulo/noticia/2021/01/26/dez-delegacias-com-mais-registros-de-roubos-durante-a-pandemia-ficam-nas-zonas-sul-e-leste-de-sp.ghtml)
+
+- [Matéria no portal *A Tribuna*](https://www.atribuna.com.br/cidades/plataforma-fornece-localiza%C3%A7%C3%A3o-de-%C3%ADndices-criminais-da-baixada-santista-1.139379)
+
+- [Portal Veja SP](https://vejasp.abril.com.br/cidades/instituto-sou-da-paz-mapas-violencia-sp/)
+
+<br>
+<center>
+```{r}
+htmltools::a(
+  href = "https://sdpa.shinyapps.io/sdpa/",
+  title = "Link para o Sou da Paz Analisa",
+  target = "_blank",
+  htmltools::img(
+    src = "../images/profissional/sdpa.png",
+    alt = "Imagem do Sou da Paz Analisa",
+    width = "90%",
+    style = "margin: auto;"
+  )
+)
+```
+</center>
+<br>
+
+#### &#128187; Painel ODS6 para o Estado de SP
+<hr>
+
+Desenvolvi em conjunto da Faculdade de Saúde Pública um painel para monitoramento de indicadores de acesso à água e esgoto para municípios do Estado de São Paulo.
+
+Acesso o painel: https://nara-fspusp.shinyapps.io/ods6-sp/
+
+<br>
+<center>
+```{r}
+htmltools::a(
+  href = "https://nara-fspusp.shinyapps.io/ods6-sp/",
+  title = "Link para o Painel ODS6",
+  target = "_blank",
+  htmltools::img(
+    src = "../images/profissional/ods6.png",
+    alt = "Imagem do Sou da Paz Analisa",
+    width = "90%",
+    style = "margin: auto;"
+  )
+)
+```
+</center>
+<br>
