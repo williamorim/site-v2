@@ -46,21 +46,22 @@
     </item>
     
     <item>
-      <title>Perfil profissional</title>
-      <link>/profissional/</link>
+      <title>Portfolio profissional</title>
+      <link>/portfolio/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/profissional/</guid>
+      <guid>/portfolio/</guid>
       <description>
 
 
-&lt;p&gt;Atualmente trabalho como professor, programador e cientista de dados na &lt;a href=&#34;https://www.curso-r.com/&#34;&gt;Curso-R&lt;/a&gt; e na &lt;a href=&#34;https://www.curso-r.com/sobre/&#34;&gt;R6&lt;/a&gt;, empresas das quais sou sócio-fundador. Venho me especializando em construção de dashboards em &lt;a href=&#34;https://shiny.rstudio.com/gallery/&#34;&gt;Shiny&lt;/a&gt;. Você pode acessar e baixar o meu currículo &lt;a href=&#34;https://williamorim.github.io/resume/&#34; title=&#34;Currículo William Nilson de Amorim&#34; target=&#34;_blank&#34;&gt;clicando aqui&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;A Curso-R é uma empresa que oferece cursos na área de Ciência de Dados, com foco em programação em R. A nossa missão é descomplicar a Ciência de Dados para todas as pessoas, independentemente da área de formação.&lt;/p&gt;
-&lt;p&gt;A R6 é uma empresa de consultoria na área de Ciência de Dados, que tem a linguagem de programação R como principal ferramenta. Somos especialistas em modelagem estatística, criação de dashboards em Shiny e &lt;em&gt;web scraping&lt;/em&gt;.&lt;/p&gt;
-&lt;img src = &#34;../images/profissional/equipe_curso_r.jpg&#34;&gt;
-&lt;center&gt;
-&lt;span style=&#34;font-size: 0.9em;&#34;&gt;Confraternização de fim de ano da equipe da Curso-R/R6 em 2022.&lt;/span&gt;
-&lt;/center&gt;
+&lt;div id=&#34;livros&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Livros&lt;/h3&gt;
+&lt;p&gt;Livros de Ciência de Dados e programação em R que escrevi ou ajudei a escrever:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://livro.curso-r.com/&#34;&gt;Ciência de Dados em R&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://programando-em-shiny.curso-r.com/&#34;&gt;Programando em Shiny&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
 &lt;div id=&#34;cursos-que-ministro&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Cursos que ministro&lt;/h3&gt;
 &lt;p&gt;Cursos de programação em R e Ciência de Dados que ministro atualmente:&lt;/p&gt;
@@ -73,27 +74,10 @@
 &lt;/div&gt;
 &lt;div id=&#34;trabalhos&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Trabalhos&lt;/h3&gt;
-&lt;p&gt;A seguir alguns trabalhos abertos que realizei nos últimos anos.&lt;/p&gt;
-&lt;div id=&#34;hamilton-institute-maynooth-university-irlanda&#34; class=&#34;section level4&#34;&gt;
-&lt;h4&gt;💻 Hamilton Institute, Maynooth University (Irlanda)&lt;/h4&gt;
-&lt;p&gt;Trabalhei com a equipe do Instituto Hamilton no desenvolvimento e manutenção &lt;a href=&#34;https://www.hamilton.ie/covid19/dashboard.html&#34;&gt;aplicativos em Shiny para análise de dados de COVID-19&lt;/a&gt;. Também fiquei responsável pela manutenção do &lt;a href=&#34;https://www.hamilton.ie/covid19/&#34;&gt;blog utilizado para divulgação dos resultados do projeto&lt;/a&gt;. O app não está sendo mais mantido pelo Instituo Hamilton, então é provável que não esteja mais no ar.&lt;/p&gt;
-&lt;p&gt;Atividades realizadas:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;Organização dos códigos e construção da identidade visual dos &lt;a href=&#34;https://www.hamilton.ie/covid19/dashboard.html&#34;&gt;aplicativos Shiny&lt;/a&gt;.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Desenvolvimento do &lt;a href=&#34;https://github.com/hamilton-institute/hamiltonCovid19/actions&#34;&gt;framework de atualização automática&lt;/a&gt; dos dados dos aplicativos utilizando o Github Actions.&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;Implementação de melhorias na página do projeto (construída usando o pacote &lt;a href=&#34;https://rstudio.github.io/distill/&#34;&gt;&lt;code&gt;{distill}&lt;/code&gt;&lt;/a&gt;)&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;br&gt;
-&lt;center&gt;
-&lt;a href=&#34;https://www.hamilton.ie/covid19/dashboard.html&#34; title=&#34;Link para o dashboard do Instituto Hamilton&#34; target=&#34;_blank&#34;&gt;
-&lt;img src=&#34;../images/profissional/app_hamilton.png&#34; alt=&#34;Dashboard do Instituto Hamilton&#34; width=&#34;90%&#34; style=&#34;margin: auto;&#34;/&gt;
-&lt;/a&gt;
-&lt;/center&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;/div&gt;
+&lt;p&gt;Listo abaixo os trabalhos abertos que desenvolvi nos últimos anos.&lt;/p&gt;
 &lt;div id=&#34;instituto-sou-da-paz&#34; class=&#34;section level4&#34;&gt;
 &lt;h4&gt;💻 Instituto Sou da Paz&lt;/h4&gt;
+&lt;hr&gt;
 &lt;p&gt;Desenvolvi em conjunto da equipe do Instituto Sou da Paz o aplicativo &lt;a href=&#34;https://sdpa.shinyapps.io/sdpa/&#34;&gt;Sou da Paz Analisa&lt;/a&gt;, uma ferramenta que centraliza, analisa e disponibiliza dados de criminalidade para o Estado de São Paulo.&lt;/p&gt;
 &lt;p&gt;Algumas reportagens sobre a ferramenta:&lt;/p&gt;
 &lt;ul&gt;
@@ -108,10 +92,10 @@
 &lt;/a&gt;
 &lt;/center&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;hr&gt;
 &lt;/div&gt;
 &lt;div id=&#34;painel-ods6-para-o-estado-de-sp&#34; class=&#34;section level4&#34;&gt;
 &lt;h4&gt;💻 Painel ODS6 para o Estado de SP&lt;/h4&gt;
+&lt;hr&gt;
 &lt;p&gt;Desenvolvi em conjunto da Faculdade de Saúde Pública um painel para monitoramento de indicadores de acesso à água e esgoto para municípios do Estado de São Paulo.&lt;/p&gt;
 &lt;p&gt;Acesso o painel: &lt;a href=&#34;https://nara-fspusp.shinyapps.io/ods6-sp/&#34; class=&#34;uri&#34;&gt;https://nara-fspusp.shinyapps.io/ods6-sp/&lt;/a&gt;&lt;/p&gt;
 &lt;br&gt;
@@ -121,16 +105,6 @@
 &lt;/a&gt;
 &lt;/center&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;hr&gt;
-&lt;/div&gt;
-&lt;div id=&#34;projetos-internos-da-curso-r&#34; class=&#34;section level4&#34;&gt;
-&lt;h4&gt;💻 Projetos internos da Curso-R&lt;/h4&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://curso-r.com/&#34;&gt;Desenvolvimento do site da Curso-R&lt;/a&gt;
-&lt;br&gt;&lt;span class=&#34;obs&#34;&gt;Feito em &lt;a href = &#34;https://gohugo.io/&#34; target = &#34;_blank&#34;&gt;Hugo&lt;/a&gt;, com o pacote &lt;a href = &#34;https://bookdown.org/yihui/blogdown/&#34; target = &#34;_blank&#34;&gt;{blogdown}&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://blog.curso-r.com/&#34;&gt;Desenvolvimento do blog da Curso-R&lt;/a&gt;
-&lt;br&gt;&lt;span class=&#34;obs&#34;&gt;Feito em &lt;a href = &#34;https://gohugo.io/&#34; target = &#34;_blank&#34;&gt;Hugo&lt;/a&gt;, com o pacote &lt;a href = &#34;https://bookdown.org/yihui/blogdown/&#34; target = &#34;_blank&#34;&gt;{blogdown}&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
 &lt;/div&gt;
 &lt;/div&gt;
 </description>
@@ -145,9 +119,7 @@
       <description>
 
 
-&lt;p&gt;Meu nome é William Nilson de Amorim, tenho 33 anos e moro em São Paulo (SP) desde que nasci.&lt;/p&gt;
-&lt;p&gt;Sou doutor em Estatística pelo Instituto de Matemática e Estatística da Universidade de São Paulo (IME-USP) e trabalho como cientista de dados na R6 Consultoria, uma empresa que abri com amigos da faculdade em 2018. Também dou aulas de programação em R pela Curso-R, o braço educacional da R6.&lt;/p&gt;
-&lt;p&gt;Sou apaixonado por histórias, futebol e jogos de video game e tabuleiro.&lt;/p&gt;
+&lt;p&gt;Meu nome é William Nilson de Amorim, tenho 33 anos e moro em São Paulo (SP) desde que nasci. Sou apaixonado por ciência, filosofia, histórias, futebol e jogos de video game e tabuleiro.&lt;/p&gt;
 &lt;p&gt;Tenho duas gatas: a Sophia e a Summer.&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 &lt;center&gt;
@@ -155,6 +127,14 @@
 &lt;img src=&#34;../images/me/summer.jpg&#34; width = &#34;48%&#34; style = &#34;display: inline&#34;&gt;
 &lt;/center&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Sou doutor em Estatística pelo Instituto de Matemática e Estatística da Universidade de São Paulo (IME-USP) e trabalho como professor, programador e cientista de dados na &lt;a href=&#34;https://www.curso-r.com/&#34;&gt;Curso-R&lt;/a&gt; e na &lt;a href=&#34;https://www.curso-r.com/sobre/&#34;&gt;R6&lt;/a&gt;, empresas das quais sou sócio-fundador. Venho me especializando em construção de dashboards em &lt;a href=&#34;https://shiny.rstudio.com/gallery/&#34;&gt;Shiny&lt;/a&gt;. Você pode acessar e baixar o meu currículo &lt;a href=&#34;https://williamorim.github.io/resume/&#34; title=&#34;Currículo William Nilson de Amorim&#34; target=&#34;_blank&#34;&gt;clicando aqui&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;A Curso-R é uma empresa que oferece cursos na área de Ciência de Dados, com foco em programação em R. A nossa missão é descomplicar a Ciência de Dados para todas as pessoas, independentemente da área de formação.&lt;/p&gt;
+&lt;p&gt;A R6 é uma empresa de consultoria na área de Ciência de Dados, que tem a linguagem de programação R como principal ferramenta. Somos especialistas em modelagem estatística, criação de dashboards em Shiny e &lt;em&gt;web scraping&lt;/em&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;img src = &#34;../images/profissional/equipe_curso_r.jpg&#34;&gt;
+&lt;center&gt;
+&lt;span style=&#34;font-size: 0.9em;&#34;&gt;Confraternização de fim de ano da equipe da Curso-R/R6 em 2022.&lt;/span&gt;
+&lt;/center&gt;
 </description>
     </item>
     
