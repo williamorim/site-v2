@@ -184,9 +184,9 @@
     </url>
   
     <url>
-      <loc>/contos/abandonados/</loc>
+      <loc>/contos/2017-10-01-a-ilha-do-medo/</loc>
       
-      <lastmod>2017-04-20T00:00:00+00:00</lastmod>
+      <lastmod>2017-10-01T00:00:00+00:00</lastmod>
       
       
       <changefreq>monthly</changefreq>
@@ -199,6 +199,20 @@
   
     <url>
       <loc>/contos/</loc>
+      
+      <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>/contos/2017-04-20-abandonados/</loc>
       
       <lastmod>2017-04-20T00:00:00+00:00</lastmod>
       
