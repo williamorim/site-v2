@@ -72,6 +72,14 @@
 &lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://loja.curso-r.com/construindo-dashboards-ii.html&#34;&gt;Dashboards em Shiny II&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
+&lt;div id=&#34;shiny-apps&#34; class=&#34;section level3&#34;&gt;
+&lt;h3&gt;Shiny apps&lt;/h3&gt;
+&lt;p&gt;Shiny apps que fiz em cursos, palestras ou por diversão.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://wamorim.shinyapps.io/contador-cliques/&#34;&gt;Contador de cliques&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://wamorim.shinyapps.io/bingo/&#34;&gt;Bingo&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/div&gt;
 &lt;div id=&#34;trabalhos&#34; class=&#34;section level3&#34;&gt;
 &lt;h3&gt;Trabalhos&lt;/h3&gt;
 &lt;p&gt;Listo abaixo os trabalhos abertos que desenvolvi nos últimos anos.&lt;/p&gt;

@@ -32,6 +32,16 @@ Cursos de programação em R e Ciência de Dados que ministro atualmente:
 
 - [Dashboards em Shiny II](https://loja.curso-r.com/construindo-dashboards-ii.html)
 
+
+### Shiny apps
+
+Shiny apps que fiz em cursos, palestras ou por diversão.
+
+- [Contador de cliques](https://wamorim.shinyapps.io/contador-cliques/)
+
+- [Bingo](https://wamorim.shinyapps.io/bingo/)
+
+
 ### Trabalhos
 
 Listo abaixo os trabalhos abertos que desenvolvi nos últimos anos.
