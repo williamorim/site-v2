@@ -41,6 +41,8 @@ Shiny apps que fiz em cursos, palestras ou por diversão.
 
 - [Bingo](https://wamorim.shinyapps.io/bingo/)
 
+- [Slider para comparar imagens](https://wamorim.shinyapps.io/imagem-com-slider/)
+
 
 ### Trabalhos
 
