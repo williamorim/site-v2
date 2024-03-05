@@ -1,14 +1,13 @@
 baseURL: "/"
 languageCode: "pt"
 DefaultContentLanguage: "pt-br"
-title: "William Amorim"
+title: "Home"
 theme: KeepIt
 paginate: 12
 enableEmoji: yes
 enableRobotsTXT: yes
 publishdir: "docs"
 googleAnalytics: ''
-disqusShortname: yourdiscussshortname
 sitemap:
   changefreq: monthly
   filename: sitemap.xml
@@ -24,18 +23,22 @@ menu:
     - name: Sobre mim
       url: /sobre
       weight: 1
-    - name: Blog
-      url: /posts/
+    - name: Currículo
+      url: "https://williamorim.github.io/resume/pt-br.html"
       weight: 2
-    - name: Contos
-      url: /contos/
-      weight: 3
     - name: Portfolio
       url: /portfolio
+      weight: 3
+    - name: Contos
+      url: /contos/
       weight: 4
+    - name: Blog
+      url: /posts/
+      weight: 5
+    
 params:
   author: William Amorim
-  avatar: /images/me/foto_perfil.jpg
+  avatar: /images/me/foto_perfil.png
   baidu_verification: ''
   bing_verification: ''
   cdn_url: ''
@@ -74,6 +77,7 @@ params:
     Facebook: no
     Linkedin: yes
     Twitter: yes
+    Instagram: yes
     copyright: This work is licensed under a Creative Commons Attribution-NonCommercial
       4.0 International License.
   since: 2020
@@ -81,6 +85,7 @@ params:
     GitHub: williamorim
     Linkedin: william-amorim-796798210
     Twitter: wamorim_
+    Instagram: wamorim89
   socialShare: yes
   subtitle: William Amorim
   utterances:

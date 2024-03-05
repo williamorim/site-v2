@@ -12,18 +12,14 @@ idade <- floor(as.numeric((Sys.Date() - as.Date("1989/07/29")) / 365))
 
 Meu nome é William Nilson de Amorim, tenho `r idade` anos e moro em São Paulo (SP) desde que nasci. Sou apaixonado por ciência, filosofia, histórias, futebol e jogos de video game e tabuleiro.
 
-Tenho duas gatas: a Sophia e a Summer.
-
-<br>
+Vivo com duas gatas: a Sophia e a Summer.
 
 <center>
   <img src="../images/me/sophia.jpg" width = "48%" style = "display: inline">
   <img src="../images/me/summer.jpg" width = "48%" style = "display: inline">
 </center>
  
-<br>
-
-Sou doutor em Estatística pelo Instituto de Matemática e Estatística da Universidade de São Paulo (IME-USP) e trabalho como professor, programador e cientista de dados na [Curso-R](https://www.curso-r.com/) e na [R6](https://www.curso-r.com/sobre/), empresas das quais sou sócio-fundador. Venho me especializando em construção de dashboards em [Shiny](https://shiny.rstudio.com/gallery/). Você pode acessar e baixar o meu currículo `r htmltools::a(href = "https://williamorim.github.io/resume/", title = "Currículo William Nilson de Amorim", "clicando aqui", target = "_blank")`.
+Sou doutor em Estatística pelo Instituto de Matemática e Estatística da Universidade de São Paulo (IME-USP) e trabalho como professor, programador e cientista de dados na [Curso-R](https://www.curso-r.com/) e na [R6](https://www.curso-r.com/sobre/), empresas das quais sou sócio-fundador. Venho me especializando em construção de dashboards em [Shiny](https://shiny.rstudio.com/gallery/).
 
 A Curso-R é uma empresa que oferece cursos na área de Ciência de Dados, com foco em programação em R. A nossa missão é descomplicar a Ciência de Dados para todas as pessoas, independentemente da área de formação.
 

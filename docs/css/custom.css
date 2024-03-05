@@ -5,3 +5,25 @@ h3 {
 h4 {
   font-size: 1.2em;
 }
+
+.post-warp h3 {
+  margin-top: 32px;
+  margin-bottom: 8px;
+}
+
+.post-warp p {
+  font-size: 1.2em;
+  margin: .8em 0;
+}
+
+.post-warp .post-content img {
+  margin: 16px auto;
+}
+
+.post-warp .post-title {
+  font-size: 2.5em;
+}
+
+.post-warp h3 {
+  font-size: 2em;
+}
