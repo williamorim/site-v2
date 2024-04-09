@@ -43,6 +43,8 @@ Shiny apps que fiz em cursos, palestras ou por diversão.
 
 - [Slider para comparar imagens](https://wamorim.shinyapps.io/imagem-com-slider/)
 
+- [Shiny + Mansory](https://wamorim.shinyapps.io/mansory/)
+
 
 ### Trabalhos
 
