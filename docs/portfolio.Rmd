@@ -45,6 +45,8 @@ Shiny apps que fiz em cursos, palestras ou por diversão.
 
 - [Shiny + Mansory](https://wamorim.shinyapps.io/mansory/)
 
+- [Pokemon](https://wamorim.shinyapps.io/pokemon/)
+
 
 ### Trabalhos
 
