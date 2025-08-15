@@ -32,7 +32,7 @@ menu:
     - name: Contos
       url: /contos/
       weight: 4
-    - name: Blog
+    - name: Futebol
       url: /futebol/
       weight: 5
     
