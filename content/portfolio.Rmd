@@ -20,19 +20,6 @@ Livros de Ciência de Dados e programação em R que escrevi ou ajudei a escreve
 - [Programando em Shiny](https://programando-em-shiny.curso-r.com/)
 
 
-### Cursos que ministro
-
-Cursos de programação em R e Ciência de Dados que ministro atualmente:
-
-- [R para Ciência de Dados I](https://loja.curso-r.com/r-para-ciencia-de-dados-i.html)
-
-- [R para Ciência de Dados II](https://loja.curso-r.com/r-para-ciencia-de-dados-ii.html)
-
-- [Dashboards em Shiny I](https://loja.curso-r.com/construindo-dashboards-i.html)
-
-- [Dashboards em Shiny II](https://loja.curso-r.com/construindo-dashboards-ii.html)
-
-
 ### Shiny apps
 
 Shiny apps que fiz em cursos, palestras ou por diversão.
