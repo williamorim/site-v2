@@ -17,7 +17,7 @@ blackfriday:
   nofollowLinks: yes
   noreferrerLinks: yes
 Permalinks:
-  posts: /:year/:filename/
+  futebol: /:year/:filename/
 menu:
   main:
     - name: Sobre mim
@@ -33,7 +33,7 @@ menu:
       url: /contos/
       weight: 4
     - name: Blog
-      url: /posts/
+      url: /futebol/
       weight: 5
     
 params:
