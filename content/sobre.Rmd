@@ -10,22 +10,20 @@ idade <- floor(as.numeric((Sys.Date() - as.Date("1989/07/29")) / 365))
 
 ```
 
-Meu nome é William Nilson de Amorim, tenho `r idade` anos e moro em São Paulo (SP) desde que nasci. Sou apaixonado por ciência, filosofia, histórias, futebol e jogos de video game e tabuleiro.
+Meu nome é William Nilson de Amorim, tenho `r idade` anos e moro em São Paulo (SP) desde que nasci. Sou apaixonado por ciência, filosofia, histórias, futebol e jogos.
 
-Vivo com duas gatas: a Sophia e a Summer.
+A Sophia e a Summer moram comigo.
 
 <center>
   <img src="../images/me/sophia.jpg" width = "48%" style = "display: inline">
   <img src="../images/me/summer.jpg" width = "48%" style = "display: inline">
 </center>
- 
-Sou doutor em Estatística pelo Instituto de Matemática e Estatística da Universidade de São Paulo (IME-USP) e trabalho como professor, programador e cientista de dados na [Curso-R](https://www.curso-r.com/) e na [R6](https://www.curso-r.com/sobre/), empresas das quais sou sócio-fundador. Venho me especializando em construção de dashboards em [Shiny](https://shiny.rstudio.com/gallery/).
 
-A Curso-R é uma empresa que oferece cursos na área de Ciência de Dados, com foco em programação em R. A nossa missão é descomplicar a Ciência de Dados para todas as pessoas, independentemente da área de formação.
+Em 2012, me formei em Estatística no Instituto de Matemática e Estatística da Universidade de São Paulo (IME-USP). Em 2015 e 2019 terminei o Mestrado e o Doutorado, ambos em Estatística, ambos no IME-USP.
 
-A R6 é uma empresa de consultoria na área de Ciência de Dados, que tem a linguagem de programação R como principal ferramenta. Somos especialistas em modelagem estatística, criação de dashboards em Shiny e *web scraping*.
-
-<br>
+Há quase 10 anos venho trabalhando com programação em R e consultoria em análise de dados na [R6](https://www.rseis.com.br/), empresa que fundei com amigos do IME em 2018. Na maioria desses anos, também ministrei cursos básicos e avançados de R pela [Curso-R](https://www.curso-r.com/), braço de educação da R6. A minha maior especialidade hoje é a construção de painéis de dados em [Shiny](https://shiny.rstudio.com/gallery/).
 
 <img src = "../images/profissional/equipe_curso_r.jpg">
 <center><span style = "font-size: 0.9em;">Confraternização de fim de ano da equipe da Curso-R/R6 em 2022.</span></center>
+
+Em 2025, realizei um sonho de profissional de trabalhar com análise de dados de futebol e passei a fazer parte da FlaDados, equipe de análise de dados do Clube de Regatas Flamengo.
