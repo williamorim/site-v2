@@ -1,8 +1,16 @@
 ---
-title: "Análise de dados e futebol"
+title: "A análise de dados e a cultura do futebol"
 description: ""
 author:  William Amorim
 date: 2025-08-14
 ---
 
-teste
+Vou começar com duas histórias.
+
+A primeira aconteceu em Londres e é bem antiga. Em meados do século XIX, as condições precárias de saneamento na cidade favoreciam a disseminação da cólera, e epidemias da doença eram frequentes. Na época, acreditava-se que a cólera e diversas outras moléstias eram transmitidas pelos "miasmas", odores fétidos gerados pela decomposição de animais, comuns nos bairros de trabalhadores. Em contraste, evidências levantadas pelas pesquisas do médico inglês John Snow^[Não confundir com aquele que não sabia de nada.], mostravam que a cólera seria transmitida por contaminação fecal, por meio da água, não pelo ar, mas não eram fortes o suficiente para vencer o senso comum^[As primeiras pesquisas de John Snow sobre o tema consistiam de entrevistas com pessoas acometidas pela doença, assim como seus médicos.].
+
+Em 1854, Snow foi chamado para investigar um surto de cólera em Soho, um bairro de Londres. Aproveitando a oportunidade para colocar sua teoria em prova, o médico efetuou uma rigorosa coleta de dados: entrevistou moradores e parentes, registrou a localização das mortes e mapeou os casos em relação a fontes de água. A partir de suas análises, ele chegou à hipótese que a contaminação era decorrente a uma bomba pública de água existente na região. Apoiado pela ausência de casos de trabalhadores de uma cervejaria próxima que possuía poço de água próprio, Snow conseguiu convencer as autoridades a remover a bomba, o que levou a uma drástica redução no número de casos.
+
+A segunda história é minha e mais recente. Aconteceu na saída do Maracanã, enquanto caminhava em direção ao metrô, com a mente focada em descobrir como chegar em Copacabana. Minha esposa estava comigo, assim como um mar de torcedores frustrados com a derrota para o Atlético-MG. A indignação era grande, os xingamentos diversos. Aos poucos, minha atenção passou a ser atraída (e logo quase completamente desviada) para as reclamações, que em eco ressoavam a angústia com uma única questão: por que o Flamengo poupou jogadores em uma partida de oitavas de final da Copa do Brasil? Alguns acusavam os jogadores de não serem como antes, de não terem mais amor pela camisa. Outros culpavam o técnico por rodar o elenco, por colocar garotos para jogar em jogo grande. Houve até citação do time de Jorge Jesus, cujo time titular jogava todos os jogos.
+
+Na metade do caminho, lá pelo centro do Rio, o número de torcedores que nos acompanhavam pelo trajeto já era bem menor, mas o eco dos comentários ainda estava na minha cabeça. Era meu primeiro mês como cientista de dado do Flamengo e, mesmo com pouco tempo, me espantava a quantidade de informação que eu tinha, informação que poderia responder as dúvidas dos torcedores, abaixar seus ânimos e diminuir suas frustrações com aquele resultado. Por sorte a minha esposa estava lá para me guiar, porque até chegar em nossa hospedagem, isso ficou na minha cabeça. E continuou por muito tempo, até esse instante, quando resolvi escrever este texto.
