@@ -5,15 +5,15 @@
     <description>Recent content in Home on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>pt</language>
-    <lastBuildDate>Fri, 03 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 14 Aug 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="/" rel="self" type="application/rss+xml" />
     
     <item>
-      <title>Posts</title>
-      <link>/posts/</link>
-      <pubDate>Fri, 03 Jun 2022 00:00:00 +0000</pubDate>
+      <title>Futebols</title>
+      <link>/futebol/</link>
+      <pubDate>Thu, 14 Aug 2025 00:00:00 +0000</pubDate>
       
-      <guid>/posts/</guid>
+      <guid>/futebol/</guid>
       <description></description>
     </item>
     
@@ -24,25 +24,6 @@
       
       <guid>/contos/</guid>
       <description></description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>/about/</guid>
-      <description>&lt;p&gt;Hugo is the &lt;strong&gt;world’s fastest framework for building websites&lt;/strong&gt;. It is written in Go.&lt;/p&gt;
-&lt;p&gt;It makes use of a variety of open source projects including:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/russross/blackfriday&#34;&gt;https://github.com/russross/blackfriday&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/alecthomas/chroma&#34;&gt;https://github.com/alecthomas/chroma&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/muesli/smartcrop&#34;&gt;https://github.com/muesli/smartcrop&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/cobra&#34;&gt;https://github.com/spf13/cobra&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;https://github.com/spf13/viper&#34;&gt;https://github.com/spf13/viper&lt;/a&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;Learn more and contribute on &lt;a href=&#34;https://github.com/gohugoio&#34;&gt;GitHub&lt;/a&gt;.&lt;/p&gt;
-</description>
     </item>
     
     <item>
@@ -59,17 +40,7 @@
 &lt;p&gt;Livros de Ciência de Dados e programação em R que escrevi ou ajudei a escrever:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://livro.curso-r.com/&#34;&gt;Ciência de Dados em R&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://programando-em-shiny.curso-r.com/&#34;&gt;Programando em Shiny&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;/div&gt;
-&lt;div id=&#34;cursos-que-ministro&#34; class=&#34;section level3&#34;&gt;
-&lt;h3&gt;Cursos que ministro&lt;/h3&gt;
-&lt;p&gt;Cursos de programação em R e Ciência de Dados que ministro atualmente:&lt;/p&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://loja.curso-r.com/r-para-ciencia-de-dados-i.html&#34;&gt;R para Ciência de Dados I&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://loja.curso-r.com/r-para-ciencia-de-dados-ii.html&#34;&gt;R para Ciência de Dados II&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://loja.curso-r.com/construindo-dashboards-i.html&#34;&gt;Dashboards em Shiny I&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://loja.curso-r.com/construindo-dashboards-ii.html&#34;&gt;Dashboards em Shiny II&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://curso-r.github.io/programando-em-shiny/&#34;&gt;Programando em Shiny&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;div id=&#34;shiny-apps&#34; class=&#34;section level3&#34;&gt;
@@ -130,20 +101,19 @@
       <description>
 
 
-&lt;p&gt;Meu nome é William Nilson de Amorim, tenho 34 anos e moro em São Paulo (SP) desde que nasci. Sou apaixonado por ciência, filosofia, histórias, futebol e jogos de video game e tabuleiro.&lt;/p&gt;
-&lt;p&gt;Vivo com duas gatas: a Sophia e a Summer.&lt;/p&gt;
+&lt;p&gt;Meu nome é William Nilson de Amorim, tenho 36 anos e moro em São Paulo (SP) desde que nasci. Sou apaixonado por ciência, filosofia, histórias, futebol e jogos.&lt;/p&gt;
+&lt;p&gt;A Sophia e a Summer moram comigo.&lt;/p&gt;
 &lt;center&gt;
 &lt;img src=&#34;../images/me/sophia.jpg&#34; width = &#34;48%&#34; style = &#34;display: inline&#34;&gt;
 &lt;img src=&#34;../images/me/summer.jpg&#34; width = &#34;48%&#34; style = &#34;display: inline&#34;&gt;
 &lt;/center&gt;
-&lt;p&gt;Sou doutor em Estatística pelo Instituto de Matemática e Estatística da Universidade de São Paulo (IME-USP) e trabalho como professor, programador e cientista de dados na &lt;a href=&#34;https://www.curso-r.com/&#34;&gt;Curso-R&lt;/a&gt; e na &lt;a href=&#34;https://www.curso-r.com/sobre/&#34;&gt;R6&lt;/a&gt;, empresas das quais sou sócio-fundador. Venho me especializando em construção de dashboards em &lt;a href=&#34;https://shiny.rstudio.com/gallery/&#34;&gt;Shiny&lt;/a&gt;.&lt;/p&gt;
-&lt;p&gt;A Curso-R é uma empresa que oferece cursos na área de Ciência de Dados, com foco em programação em R. A nossa missão é descomplicar a Ciência de Dados para todas as pessoas, independentemente da área de formação.&lt;/p&gt;
-&lt;p&gt;A R6 é uma empresa de consultoria na área de Ciência de Dados, que tem a linguagem de programação R como principal ferramenta. Somos especialistas em modelagem estatística, criação de dashboards em Shiny e &lt;em&gt;web scraping&lt;/em&gt;.&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;Em 2012, me formei em Estatística no Instituto de Matemática e Estatística da Universidade de São Paulo (IME-USP). Em 2015 e 2019 terminei o Mestrado e o Doutorado, ambos em Estatística, ambos no IME-USP.&lt;/p&gt;
+&lt;p&gt;Há quase 10 anos venho trabalhando com programação em R e consultoria em análise de dados na &lt;a href=&#34;https://www.rseis.com.br/&#34;&gt;R6&lt;/a&gt;, empresa que fundei com amigos do IME em 2018. Na maioria desses anos, também ministrei cursos básicos e avançados de R pela &lt;a href=&#34;https://www.curso-r.com/&#34;&gt;Curso-R&lt;/a&gt;, braço de educação da R6. A minha maior especialidade hoje é a construção de painéis de dados em &lt;a href=&#34;https://shiny.rstudio.com/gallery/&#34;&gt;Shiny&lt;/a&gt;.&lt;/p&gt;
 &lt;img src = &#34;../images/profissional/equipe_curso_r.jpg&#34;&gt;
 &lt;center&gt;
 &lt;span style=&#34;font-size: 0.9em;&#34;&gt;Confraternização de fim de ano da equipe da Curso-R/R6 em 2022.&lt;/span&gt;
 &lt;/center&gt;
+&lt;p&gt;Em 2025, realizei um sonho de profissional de trabalhar com análise de dados de futebol e passei a fazer parte da FlaDados, equipe de análise de dados do Clube de Regatas Flamengo.&lt;/p&gt;
 </description>
     </item>
     

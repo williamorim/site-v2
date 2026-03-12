@@ -1,0 +1,8 @@
+---
+title: "Análise de dados e futebol"
+description: ""
+author:  William Amorim
+date: 2025-08-14
+---
+
+teste
