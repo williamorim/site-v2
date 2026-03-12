@@ -1,0 +1,34 @@
+---
+title: "Futebol nos Tempos do Cólera"
+description: ""
+author:  William Amorim
+date: 2025-08-14
+---
+
+Gostaria de contar duas histórias.
+
+A primeira no século XIX, quando as epidemias de cólera em grandes cidades eram frequentes, devido às precárias condições de saneamento básico. Na época, acreditava-se que a cólera, entre outras doenças, eram transmitidas pelo ar por meio dos "miasmas", odores fétidos gerados pela decomposição de material orgânico, geralmente carcaça de animais, comuns em bairros de trabalhadores. Todo esforço de prevenção da doença e combate às epidemias se baseava nesta crença e raramente se obtinha resultados. 
+
+Em contraste, os estudos do médico inglês John Snow^[Não confundir com aquele que não sabia de nada.] levantam cada vez mais evidências de que a cólera seria na verdade transmitida por contaminação fecal, pela da água, não pelo ar, mas ainda não eram fortes o suficiente para vencer o senso comum^[As primeiras pesquisas de John Snow sobre o tema consistiam de entrevistas com pessoas acometidas pela doença, assim como seus médicos.]. Em 1854, Snow foi chamado para investigar um surto de cólera em Soho, um bairro de Londres. Aproveitando a oportunidade para provar sua teoria, o médico efetuou uma rigorosa coleta de dados: entrevistou moradores e parentes, registrou a localização das mortes e mapeou os casos em relação a fontes de água. A partir de suas análises, ele chegou à hipótese que a contaminação era decorrente de uma bomba pública de água existente na região. Apoiado pela ausência de casos de trabalhadores de uma cervejaria próxima, que possuía poço de água próprio, Snow conseguiu convencer as autoridades a remover a bomba, o que levou a uma drástica e imediata redução no número de casos.
+
+A metodologia utilizada por Snow para estudar o caso foi registrada, aperfeiçoada e utilizada muitas vezes depois. Hoje, o médico inglês é considerado como um dos fundadores da epidemiologia moderna, e seu trabalho é um marco na história da Saúde Pública.
+
+Saindo do século XIX e chegando em 2025, a segunda história se passa no Maracanã, saída de jogo. O Flamengo acabara de perder para o Atlético-MG no jogo de ida das oitavas de final da Copa do Brasil. A torcida deixava o estádio inconformada, reclamando de jogadores, técnico, diretoria... O time era líder do Brasileirão e estava classificado para as oitavas da Libertadores. No começo do ano, havia ganhado o Carioca em cima do Fluminense.
+
+A principal bronca era a escalação. "*Por que poupar jogadores em um jogo decisivo?*" era a pergunta que mais ecoava, seguida pela insatisfação por usar alguns garotos da base em um jogo tão grande. Quem apontava para a diretoria, dizia ser absurdo o clube não priorizar a Copa do Brasil. Os mais velhos justificavam suas reclamações na mudança dos tempos: "*Na minha época, jogador jogava todo jogo*". Outros não iam tão longe e invocavam Jesus: "*O Jorge Jesus jogava todo jogo com o mesmo time*".
+
+Era uma quinta-feira. Talvez a sexta e a perspectiva do fim de semana tenha aliviado um pouco as dores da torcida. Mas naquela noite, os ânimos estavam exaltados e a culpa precisava ser colocada em alguém.
+
+Mas, ora, e onde essas duas histórias se cruzam? Nos miasmas!
+
+O Futebol, como esporte, negócio ou cultura, se alimenta de paixão. E a paixão raramente se importa com a verdade. Todo o meio é repleto de crenças, tradições e superstições que, claro, são de extremo carisma e ajudam a construir a mística em volta do jogo, mas também potencializam os erros e as frustrações quando aplicadas no lugar errado.
+
+
+Um time da Série A, que joga estadual, Copa do Brasil e uma das competições continentais, pode chegar a fazer quase 80 jogos na temporada. 
+
+
+No jogo seguinte, o Flamengo foi à Fortaleza e, com o time titular, apenas empatou com o Ceará. Na sequência, também com um time mexido, reverteu o placar contra o Galo em Minas, mas foi eliminado nos pênaltis.
+
+
+
+

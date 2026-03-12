@@ -2,177 +2,37 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
+      <loc>/2025/2025-08-14-analise-dados-futebol/</loc>
+      
+      <lastmod>2025-08-14T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>/futebol/</loc>
+      
+      <lastmod>2025-08-14T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
       <loc>/</loc>
       
-      <lastmod>2022-06-03T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>/tags/jogos/</loc>
-      
-      <lastmod>2022-06-03T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>/2022/2022-06-03-historias-que-voce-esta-perdendo/</loc>
-      
-      <lastmod>2022-06-03T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>/posts/</loc>
-      
-      <lastmod>2022-06-03T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>/tags/</loc>
-      
-      <lastmod>2022-06-03T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>/2022/2022-05-01-meu-top-10-jogos/</loc>
-      
-      <lastmod>2022-05-01T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>/tags/s%C3%A9ries/</loc>
-      
-      <lastmod>2021-03-05T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>/2021/2021-03-05-wandavision/</loc>
-      
-      <lastmod>2021-03-05T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>/2021/2021-01-01-meu-top-10-jogos/</loc>
-      
-      <lastmod>2021-01-01T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>/tags/livros/</loc>
-      
-      <lastmod>2020-12-28T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>/tags/recomenda%C3%A7%C3%A3o/</loc>
-      
-      <lastmod>2020-12-28T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>/2020/2020-12-28-pequeno-manual-antirracista/</loc>
-      
-      <lastmod>2020-12-28T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>/2020/2020-12-27-what-remains/</loc>
-      
-      <lastmod>2020-12-27T00:00:00+00:00</lastmod>
+      <lastmod>2025-08-14T00:00:00+00:00</lastmod>
       
       
       <changefreq>monthly</changefreq>
@@ -254,20 +114,6 @@
     </url>
   
     <url>
-      <loc>/about/</loc>
-      
-      <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
       <loc>/categories/</loc>
       
       
@@ -293,6 +139,18 @@
   
     <url>
       <loc>/sobre/</loc>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>/tags/</loc>
       
       
       <changefreq>monthly</changefreq>

@@ -17,7 +17,7 @@ Livros de Ciência de Dados e programação em R que escrevi ou ajudei a escreve
 
 - [Ciência de Dados em R](https://livro.curso-r.com/)
 
-- [Programando em Shiny](https://programando-em-shiny.curso-r.com/)
+- [Programando em Shiny](https://curso-r.github.io/programando-em-shiny/)
 
 
 ### Shiny apps
