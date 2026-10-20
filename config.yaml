@@ -33,7 +33,7 @@ menu:
       url: /contos/
       weight: 4
     - name: Futebol
-      url: /futebol/
+      url: https://twonil.wamorim.com/
       weight: 5
     
 params:

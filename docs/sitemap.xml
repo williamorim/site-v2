@@ -2,48 +2,6 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
     <url>
-      <loc>/2025/2025-08-14-analise-dados-futebol/</loc>
-      
-      <lastmod>2025-08-14T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>/futebol/</loc>
-      
-      <lastmod>2025-08-14T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
-      <loc>/</loc>
-      
-      <lastmod>2025-08-14T00:00:00+00:00</lastmod>
-      
-      
-      <changefreq>monthly</changefreq>
-      
-      
-      <priority>0.5</priority>
-      
-      
-    </url>
-  
-    <url>
       <loc>/contos/2017-10-01-a-ilha-do-medo/</loc>
       
       <lastmod>2017-10-01T00:00:00+00:00</lastmod>
@@ -59,6 +17,20 @@
   
     <url>
       <loc>/contos/</loc>
+      
+      <lastmod>2017-10-01T00:00:00+00:00</lastmod>
+      
+      
+      <changefreq>monthly</changefreq>
+      
+      
+      <priority>0.5</priority>
+      
+      
+    </url>
+  
+    <url>
+      <loc>/</loc>
       
       <lastmod>2017-10-01T00:00:00+00:00</lastmod>
       
